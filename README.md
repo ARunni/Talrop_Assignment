@@ -14,7 +14,7 @@
 
  We can test this api using postman or curl 
 
- End point: http://localhost:8080/search?name=<name>&page=<page number>
+ End point: (http://localhost:8080/search?name=<name>&page=<pagenumber>)
 
 
 
