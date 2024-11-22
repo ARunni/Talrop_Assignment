@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"search-api/internal/infrastructure/database"
+	"search-api/internal/database"
 
 	"github.com/joho/godotenv"
 )
